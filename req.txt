@@ -144,8 +144,6 @@ validators==0.20.0
 visions==0.7.5
 waitress==2.1.2
 wasabi==0.10.1
-watchdog==2.1.9
-wcwidth==0.2.5
 websocket-client==1.4.1
 Werkzeug==2.2.2
 widgetsnbextension==4.0.3
