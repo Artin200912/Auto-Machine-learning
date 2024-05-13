@@ -152,4 +152,4 @@ widgetsnbextension==4.0.3
 wordcloud==1.8.2.2
 yellowbrick==1.2.1
 zipp==3.10.0
-plotly
+plotly==5.21.0
